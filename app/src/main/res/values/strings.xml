@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyMarathon</string>
+    <string name="donateTitle">Welcome Homer</string>
+    <string name="donateSubtitle">Please Give Generously</string>
+    <string name="donateButton">Donate</string>
+    <string name="paypal">PayPal</string>
+    <string name="direct">Direct</string>
+    <string name="amount">Amount</string>
+    <string name="total">Total so Far</string>
+    <string name="totalSoFar">$ Total</string>
+    <string name="reportTitle">Donations Report</string>
+    <string name="defaultAmount">00</string>
+    <string name="defaultMethod">N/A</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="login">login</string>
+    <string name="needToReg">needToReg</string>
+    <string name="password">password</string>
+    <string name="emailhint">emailhint</string>
+    <string name="splash">splash</string>
+    <string name="email">email</string>
+    <string name="alreadyReg">alreadyReg</string>
+    <string name="appbar_scrolling_view_behavior">appbar_scrolling_view_behaviour</string>
+</resources>

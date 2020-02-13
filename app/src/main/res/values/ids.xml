@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="donateTitle" type="id">donateTitle</item>
+    <item name="progressBar" type="id">progressBar</item>
+    <item name="donateSubtitle" type="id">donateSubtitle</item>
+    <item name="amountPicker" type="id">amountPicker</item>
+    <item name="donateButton" type="id">donateButton</item>
+</resources>
